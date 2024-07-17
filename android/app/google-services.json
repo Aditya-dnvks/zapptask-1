@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564616014128",
+    "project_id": "zapptask1",
+    "storage_bucket": "zapptask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564616014128:android:94ed6174008c6464a780f5",
+        "android_client_info": {
+          "package_name": "com.zapptask1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS2P7GSpSgb925b2rQGRnL2XpQcFnpD0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
